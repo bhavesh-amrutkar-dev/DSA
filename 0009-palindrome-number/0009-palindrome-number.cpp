@@ -6,13 +6,10 @@ public:
         }
         int initialVal = x;
         long int revNum = 0;
-        while (x > 0) {
+        while (x != 0) {
             revNum = (revNum * 10) + (x % 10);
             x /= 10;
         }
-        if (initialVal == revNum) {
-            return true;
-        }
-        return false;
+        return (initialVal == revNum);
     }
 };
