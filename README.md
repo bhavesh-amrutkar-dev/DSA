@@ -13,4 +13,13 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0009-palindrome-number) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1903-largest-odd-number-in-string) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
