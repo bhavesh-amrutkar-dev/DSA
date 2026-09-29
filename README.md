@@ -17,9 +17,14 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0125-valid-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
