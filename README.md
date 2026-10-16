@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0283-move-zeroes) |
 | [1207-unique-number-of-occurrences](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
