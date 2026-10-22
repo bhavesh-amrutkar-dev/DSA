@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -38,6 +39,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
