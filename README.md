@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0704-binary-search) |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
