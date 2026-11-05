@@ -17,6 +17,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0704-binary-search](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhavesh-amrutkar-dev/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Ternary Search
 |  |
 | ------- |
